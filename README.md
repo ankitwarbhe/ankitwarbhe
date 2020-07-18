@@ -26,8 +26,9 @@
   <img align="left" alt="Ankit's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<br><br>
- <img align="left" src="https://camo.githubusercontent.com/6ba7b982e69849c28d40e15131d5557cd65455a6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" alt="Connect GIF" width="50" height="40" >I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
+<br><br><br>
+ <img  src="https://camo.githubusercontent.com/6ba7b982e69849c28d40e15131d5557cd65455a6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" alt="Connect GIF" width="50" height="40" >
+ I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
  <br>
 
 ![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=ankitwarbhe&show_icons=true&hide_border=true)
