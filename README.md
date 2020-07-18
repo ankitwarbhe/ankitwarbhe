@@ -1,7 +1,5 @@
 ## Hi 👋, I'm [Ankit Warbhe!](https://ankitwarbhe.github.io) 
-
-
-
+<br>
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
@@ -15,7 +13,7 @@
 - 📫 How to reach me: ankitwarbheofficial@gmail.com;
 - 📝[Resume](https://ankitwarbhe.github.io/cdn/about/Ankit-warbhe-cv.pdf) <br>
 
-      
+    
 <a href="https://twitter.com/ankitwarbhe">
   <img align="left" alt="Ankit Warbhe | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
