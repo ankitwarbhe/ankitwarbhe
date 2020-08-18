@@ -31,6 +31,6 @@
  I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
  <br>
 
-![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=ankitwarbhe&show_icons=true&hide_border=true)
+[Ankit's github stats](https://github-readme-stats.vercel.app/api?username=ankitwarbhe)]
 
 
