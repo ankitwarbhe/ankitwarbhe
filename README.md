@@ -27,6 +27,10 @@
 </a>
 
 <br><br>
+<!-----Top Languages------>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitwarbhe&theme=dark" />
+
 
 
 ![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=ankitwarbhe)
