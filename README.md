@@ -33,6 +33,6 @@
 
 
 
-![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=ankitwarbhe)
+![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=ankitwarbhe&theme=dark)
 
 
