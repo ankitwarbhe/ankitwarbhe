@@ -36,7 +36,7 @@
 
 <br><br>
 <a href="https://github.com/ankitwarbhe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitwarbhe&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitwarbhe&theme=dark">
 </a>
 <a href="https://github.com/ankitwarbhe">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitwarbhe&show_icons=true&theme=dark&line_height=30" alt="Ankit's github stats"/>
