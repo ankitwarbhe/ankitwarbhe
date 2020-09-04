@@ -3,7 +3,7 @@
  
  ![Twitter Follow](https://img.shields.io/twitter/follow/ankitwarbhe?style=social)
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+<img align="right" src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/developer.gif" alt="Coder GIF" width="500" height="400">
 
  <a href="https://dev.to/ankitwarbhe">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ankit's Dev" width="26"/>
