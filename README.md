@@ -20,9 +20,7 @@
 <a href="https://devfolio.co/@ankitwarbhe/">
   <img align="left" alt="Ankit's Devfolio" width="26px" src="https://pbs.twimg.com/profile_images/1212398116101472257/VVvZ_m4A_400x400.png"/>
 </a>
-<a href="https://github.com/ankitwarbhe">
-  <img src="https://komarev.com/ghpvc/?username=ankitwarbhe&label=Views&color=blue&style=plastic" alt="ankitwarhe" />
-</a>
+
 
 
 
@@ -36,7 +34,9 @@
 - 📫 How to reach me: ankitwarbheofficial@gmail.com;
 - 📝[Resume](https://ankitwarbhe.github.io/cdn/about/Ankit-warbhe-cv.pdf) <br>
 
-![](https://img.shields.io/badge/Machine%20Learning-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Core%20Java-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Business%20English-%7C-yellowgreen) ![](https://img.shields.io/badge/SQL-%7C-orange) ![](https://img.shields.io/badge/Cloud%20Developer-%7C-blue)
+![](https://img.shields.io/badge/Machine%20Learning-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Core%20Java-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Business%20English-%7C-yellowgreen) ![](https://img.shields.io/badge/SQL-%7C-orange) ![](https://img.shields.io/badge/Cloud%20Developer-%7C-blue)<a href="https://github.com/ankitwarbhe">
+  <img src="https://komarev.com/ghpvc/?username=ankitwarbhe&label=Views&color=blue&style=plastic" alt="ankitwarhe" />
+</a>
 
 <br><br>
 <a href="https://github.com/ankitwarbhe">
