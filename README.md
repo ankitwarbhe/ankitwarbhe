@@ -1,6 +1,7 @@
 ## Hi 👋, I'm [Ankit Warbhe!](https://ankitwarbhe.github.io) 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitwarbhe&label=Views&color=blue&style=plastic" alt="ankitwarhe" /> </p>
-
+ 
+ 
+ ![Twitter Follow](https://img.shields.io/twitter/follow/ankitwarbhe?style=social)
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
@@ -18,6 +19,9 @@
 </a>
 <a href="https://devfolio.co/@ankitwarbhe/">
   <img align="left" alt="Ankit's Devfolio" width="26px" src="https://pbs.twimg.com/profile_images/1212398116101472257/VVvZ_m4A_400x400.png"/>
+</a>
+<a href="https://github.com/ankitwarbhe">
+  <img src="https://komarev.com/ghpvc/?username=ankitwarbhe&label=Views&color=blue&style=plastic" alt="ankitwarhe" />
 </a>
 
 
