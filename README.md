@@ -26,7 +26,7 @@
 
 
 
-- :telescope: I'm currently studying BTech in CSE 💻;
+- :telescope: I'm currently studying BE in CSE 💻;
 - :hourglass_flowing_sand: Learning Web Development;
 - 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;
 - 📫 How to reach me: ankitwarbheofficial@gmail.com;
