@@ -27,7 +27,7 @@
 
 
 - :telescope: I'm currently studying BE in CSE 💻;
-- :hourglass_flowing_sand: Learning Web Development;
+- :hourglass_flowing_sand: Creator [@Duocodies](https://duocodies.ml);
 - 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;
 - 📫 How to reach me: ankitwarbheofficial@gmail.com;
 <br><br><br><br>
