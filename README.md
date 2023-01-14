@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/ankit-warbhe/">
   <img align="left" alt="Ankit's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/ankit_warbhe/">
+<a href="https://www.instagram.com/ankit.warbhe/">
   <img align="left" alt="Ankit's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a><br><br>
 
@@ -23,8 +23,7 @@
 
 
 
-- :telescope: I'm currently studying BE in CSE 💻;
-- :hourglass_flowing_sand: Creator [@Duocodies DEV](https://duocodies.ml);
+- :telescope: I'm currently working at Icertis 💻;
 - 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;
 - 📫 How to reach me: ankitwarbheofficial@gmail.com;
 <br><br><br><br>
