@@ -32,23 +32,4 @@
   <img src="https://komarev.com/ghpvc/?username=ankitwarbhe&label=Views&color=blue&style=plastic" alt="ankitwarhe" />
 </a>
 
----
 
-## 📊 My Github stats
-
-<details>
-  <summary>:chart_with_upwards_trend:GitHub Profile Stats</summary>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitwarbhe&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" align="center" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitwarbhe&layout=compact&theme=chartreuse-dark&langs_count=6" alt="GitHub Top-Langs" align="center" width="40%" />
-  <br/>
- 
-</details>
-
-<details>
-   <summary>:chart_with_upwards_trend: Contribution Graph </summary>
-   <br/>
-   <a><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ankitwarbhe&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-</details>
-
----
