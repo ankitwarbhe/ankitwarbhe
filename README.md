@@ -1,7 +1,7 @@
 ## Hi <img src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/Hi.gif" width="29px">, I'm Ankit Warbhe
  
  
- ![Twitter Follow](https://img.shields.io/twitter/follow/ankitwarbhe?style=social)
+ ![Twitter Follow](https://img.shields.io/twitter/follow/ankitwarbhe)
 
 <img align="right" src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/developer.gif" alt="Coder GIF" width="500" height="400">
 
