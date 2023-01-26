@@ -23,8 +23,8 @@
 
 
 
-- :telescope: I'm currently working at Icertis 💻;
-- 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;
+- :telescope: I'm currently working at Icertis 💻
+- 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) 
 - 📫 How to reach me: ankitwarbheofficial@gmail.com;
 <br><br><br><br>
 
