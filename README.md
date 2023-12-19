@@ -23,13 +23,12 @@
 
 
 
-- :telescope: I'm currently working at Icertis 💻
+- :telescope: I'm currently working as Software Engineer @ Icertis 💻
 - 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) 
 - 📫 How to reach me: ankitwarbheofficial@gmail.com;
 <br><br><br><br>
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<br>
-  <img src="https://komarev.com/ghpvc/?username=ankitwarbhe&label=Views&color=blue&style=plastic" alt="ankitwarhe" />
+
 </a>
 
 
