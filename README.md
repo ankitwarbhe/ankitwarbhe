@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is Ankit Warbhe and 🔭 I'm currently working as Software Engineer @ Icertis 💻.</h2>
+<h2 align="left">Hi 👋! My name is Ankit Warbhe and 🔭 I'm currently working as Software Engineer @ Icertis 💻</h2>
 
 ###
 
