@@ -1,8 +1,9 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is Ankit Warbhe and 🔭 I'm currently working as Software Engineer @Icertis 💻</h2>
+<h2 align="left">Hi 👋! My name is Ankit Warbhe and 🔭 I'm currently working as Software Engineer @ Icertis 💻</h2>
 
 ###
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ankitwarbhe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="stats graph"  />
