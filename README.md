@@ -55,7 +55,7 @@
 
 <img src="https://raw.githubusercontent.com/ankitwarbhe/ankitwarbhe/output/snake.svg" alt="Snake animation" />
 
-  <h2><a href="https://www.linkedin.com/in/ankit-warbhe/" target="_blank">
-     Visit WECODE Org 
+  <h2><a href="https://github.com/wecodeorg" target="_blank" align="center">
+     Visit WECODE 
   </a></h2>
 ###
