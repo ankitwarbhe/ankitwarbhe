@@ -54,7 +54,7 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/ankitwarbhe/ankitwarbhe/output/snake.svg" alt="Snake animation" />
-###
+
   <h2 align="center">Checkout Exclusive Projects <a href="https://github.com/wecodeorg">
      @WECODE 
   </a></h2>
